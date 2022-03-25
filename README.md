@@ -4,7 +4,7 @@ An ongoing curated list of frameworks and libraries, articles and books , talks 
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-## Tables of Contents
+## `Table of Contents`
 
 
 ## 1. Javascript
